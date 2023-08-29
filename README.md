@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jituThakare
 - 👀 I’m interested in web development.
-- 🌱 I’m currently learning on js
+- 🌱 I’m currently learning React & Node js.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
